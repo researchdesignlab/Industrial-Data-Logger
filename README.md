@@ -23,8 +23,9 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 # Programming IDE
 • Arduino IDE - This source code is written in Arduino IDE
 • LabVIEW 
-• AtmelStudio - User can write code as per his requirement in AtmelStudio.
-		To get started with AtmelStudio look into https://github.com/researchdesignlab/ATMEL-STUDIO  
+• AtmelStudio - User can write code as per his requirement in AtmelStudio.                                                               
+                To get started with AtmelStudio look into https://github.com/researchdesignlab/ATMEL-STUDIO  
+		
 # Product Versions
 • Industrial Data Logger - Version 1.0.
 
@@ -32,9 +33,8 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 • v10 GitHub version 1.0. Current version
 
 # License Information
-• This code is open source
+• This code is open source                                                                                                               
 • Redistribution and use in source and binary forms, with or without modification, are permitted
 
-If you have any questions or queries, please contact support@researchdesignlab.com.
-
 For similar products, please visit www.rdltech.in
+If you have any questions or queries, please contact support@researchdesignlab.com
