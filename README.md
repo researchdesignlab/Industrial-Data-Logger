@@ -9,14 +9,11 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 • /Configuration Software - .exe file
 
 # Source code contains
-• Configuring the Hardware using Data Logger GUI
-
-• Log information for the devices connected to MODBUS, Analog and Digital Input pins
-
-• SD_Store(String values, String index, char FL) -  log information in SD Card
-
-• read_ee(uint16_t ch) -  Read data from FRAM 
-• Store(uint8_t values[],uint16_t framAddr) -  Store data in FRAM  
+• Configuring the Hardware using Data Logger GUI.
+• Log information for the devices connected to MODBUS, Analog and Digital Input pins.
+• SD_Store(String values, String index, char FL) -  log information in SD Card.
+• read_ee(uint16_t ch) -  Read data from FRAM.
+• Store(uint8_t values[],uint16_t framAddr) -  Store data in FRAM.  
 • System_Log(String data45) -  Store system log in SD Card
 • printDirectory(File dir, int numTabs) -  List log files 
 • UPLOAD_FTP(byte val) -  Upload log files to FTP server
