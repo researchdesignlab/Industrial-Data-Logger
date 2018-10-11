@@ -21,8 +21,8 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 • Upload_MQTT(String values) -  Upload log files to cloud using MQTT                                                                     
 
 # Programming IDE
-• Arduino IDE - This source code is written in Arduino IDE
-• LabVIEW 
+• Arduino IDE - This source code is written in Arduino IDE                                                                               
+• LabVIEW                                                                                                                               
 • AtmelStudio - User can write code as per his requirement in AtmelStudio.                                                               
                 To get started with AtmelStudio look into https://github.com/researchdesignlab/ATMEL-STUDIO  
 		
