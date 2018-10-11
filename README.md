@@ -11,14 +11,14 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 # Source code contains
 •	Configuring the Hardware using Data Logger GUI
 •	Log information for the devices connected to MODBUS, Analog and Digital Input pins
-•	SD_STORE( ) -  log information in SD Card
-•	read_ee( ) -  Read data from FRAM 
-•	Store( ) -  Store data in FRAM  
-•	System_Log( ) -  Store system log in SD Card
-•	printDirectory( ) -  List log files 
-•	UPLOAD_FTP( ) -  Upload log files to FTP server
-•	UPLOAD_JISON( ) -  Upload log files to cloud using JSON
-•	UPLOAD_MQTT( ) -  Upload log files to cloud using MQTT
+•	SD_Store(String values, String index, char FL) -  log information in SD Card
+•	read_ee(uint16_t ch) -  Read data from FRAM 
+•	Store(uint8_t values[],uint16_t framAddr) -  Store data in FRAM  
+•	System_Log(String data45) -  Store system log in SD Card
+•	printDirectory(File dir, int numTabs) -  List log files 
+•	UPLOAD_FTP(byte val) -  Upload log files to FTP server
+•	UPLOAD_JISON(String values) -  Upload log files to cloud using JSON
+•	UPLOAD_MQTT(String values) -  Upload log files to cloud using MQTT
 
 # Programming IDE
 •	Arduino IDE - This source code is written in Arduino IDE
@@ -31,10 +31,10 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 # Version History
 •	v10 GitHub version 1.0. Current version
 
-
 # License Information
 •	This code is open source
 •	Redistribution and use in source and binary forms, with or without modification, are permitted
 
 If you have any questions or queries, please contact support@researchdesignlab.com.
+
 For similar products, please visit www.rdltech.in
