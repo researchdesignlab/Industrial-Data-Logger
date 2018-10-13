@@ -10,7 +10,8 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 
 # Source code contains
 • Configuring the Hardware using Data Logger GUI                                                                                         
-• Logs information for the devices connected to MODBUS and Digital Input pins                                                            • Logs information for 4-20mA current sensors and voltage sensors                                                                       
+• Logs information for the devices connected to MODBUS and Digital Input pins                                                                                                                    
+• Logs information for 4-20mA current sensors and voltage sensors                                                                       
 • SD_Store(String values, String index, char FL) - log information in SD Card                                                           
 • Read_FRAM(uint16_t ch) - Read data from FRAM                                                                                           
 • Write_FRAM(uint8_t values[],uint16_t framAddr) - Store data in FRAM                                                                   
