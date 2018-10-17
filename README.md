@@ -37,5 +37,5 @@ RDL data logger is a user programmable comprehensive real time industrial automa
 • This code is open source                                                                                                               
 • Redistribution and use in source and binary forms, with or without modification, are permitted
 
-For similar products, please visit www.rdltech.in
+For similar products, please visit www.rdltech.in                                                                                       
 If you have any questions or queries, please contact support@researchdesignlab.com
