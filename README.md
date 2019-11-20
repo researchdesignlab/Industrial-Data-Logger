@@ -16,6 +16,22 @@ Industrial Data Logger 4.0 can used to build the custom industrial solution for 
  * Preventive maintenance
  * Performance Forecasting
  * Enable Management by IT
+ 
+# Application
 
+ * Production and process monitoring.
+ * Utilities monitoring.
+ * Condition monitoring.
+ * Environment monitoring.
+ * Industrial Smart grid
+ * Leakage detection.
+ * Cold storage monitoring.
+ * District metering.
+ * Water treatment.
+ * Generator monitoring.
+ * Green House.
+ * Warning message in case of calamities.
+ * Standard SCADA Applications
+ 
 For similar products, please visit www.rdltech.in                                                                                       
 If you have any questions or queries, please contact support@researchdesignlab.com
